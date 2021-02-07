@@ -1,0 +1,12 @@
+-- ----------------------STORES INSERTIONS---------------------------------------------------------------------------------------------
+
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES  (9,'07:00','19:00',197,'Blaze Santiago',210,19268,'Dafni');
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES	 (7,'07:00','18:30',100,'Laith Wells',46,17222,'Dafni');
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES	 (4,'08:15','22:00',136,'Hayes Vasquez',219,13271,'Suncity');
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES	 (2,'07:30','21:30',293,'Samson Carpenter',38,17373,'Dafni');
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES	 (6,'08:30','01:30',163,'Benedict Gill',92,12673,'Suncity');
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES	 (5,'06:30','18:30',258,'Wallace Stewart',164,12562,'Lagonhsi');
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES	 (1,'07:00','08:30',200,'Wesley Dickson',113,19675,'Suncity');
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES	 (3,'08:15','02:15',246,'Sylvester Wells',67,13848,'Dafni');
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES	 (8,'09:30','01:00',168,'Oleg Forbes',59,16627,'Lagonhsi');
+INSERT INTO `Stores` (`Store_id`, `Opening_time`, `Closing_time`, `Size`, `Store_Street`, `Store_Number`, `Store_Postal_code`, `Store_City`) VALUES	 (10,'09:30','01:30',168,'Thessalias',20,16527,'Suncity');

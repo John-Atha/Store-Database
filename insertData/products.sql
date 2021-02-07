@@ -1,0 +1,86 @@
+-- -------------------------------------PRODUCTS INSERTIONS-----------------------------------------------------------------------------
+
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('38448', 04.02, 'mila starkin', false, '1999-10-20 13:00:00', 1);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('76895', 04.03, 'portokalia merlin', false, '2003-01-23 14:03:00', 1);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('15344', 05.04, 'ntomates kritis', true, '2018-05-20 18:00:00', 1);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('53792', 06.05, 'aggouria kritis', true, '2004-04-04 13:13:00', 1);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('92241', 08.06, 'axladia krystalia', false, '2005-06-05 12:59:00', 1);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('30687', 02.07, 'mantarinia klimentines', true, '2012-12-27 16:00:04', 1);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('69136', 05.08, 'kolokithakia spaton', true, '1999-10-20 13:54:23', 1);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('75820', 07.09, 'kremmydia kritis', true, '1989-12-06 13:00:45', 1);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('69695', 02.02, 'fraoules pyrgou', true, '1999-11-20 16:52:23', 1);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('39391', 04.03, 'rodakina beroias', true, '2006-05-14 19:00:58', 1);
+
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('76896', 02.03, 'pirounia silver steel', false, '1999-10-20 13:00:23', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('53790', 01.04, 'koutalia silver steel', false, '2003-01-23 14:03:05', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('30686', 04.05, 'mahairia pyrox', true, '2018-05-21 18:00:56', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('75830', 01.06, 'kalathi aplyton praktiker', true, '2004-04-04 13:13:37', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('84481', 06.07, 'kalathi skoupidion praktiker', false, '2009-06-05 12:59:00', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('61376', 07.08, 'tostiera vico', true, '2012-12-07 16:00:34', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('38272', 15.09, 'kafetiera de longhi', true, '1999-10-20 13:54:23', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('15169', 08.10, 'xylo kopis silver', true, '1989-12-06 13:00:32', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('39390', 10.03, 'piatothiki vicp', true, '1999-11-20 16:52:00', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('78780', 18.04, 'froutiera vico', true, '2006-05-14 19:00:09', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('18172', 04.05, 'tyriera ikea', false, '2009-09-09 20:00:07', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('57560', 20.06, 'mpol tupperware', false, '2001-08-22 03:00:00', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('96950', 25.07, 'salatiera vico', false, '1989-04-03 13:00:56', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('36341', 01.08, 'potiria atilio', false, '2008-11-19 14:22:45', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('75730', 04.09, 'koupes atilio', false, '2003-10-02 13:00:34', 2);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('15121', 08.10, 'kanata nerou vico', false, '2005-08-15 13:00:44', 2);
+
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('15343', 03.04, 'zimi pitsas pilsbury', false, '1999-10-20 13:00:00', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('30689', 06.05, 'tyri philadelphia', false, '2003-01-23 14:03:00', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('46032', 01.06, 'tyrakia la vache qui rit', true, '2018-05-21 18:00:09', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('61377', 06.07, 'tyri milner', true, '2004-04-04 13:13:08', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('76721', 03.08, 'pariza yfantis', false, '2009-06-05 12:59:08', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('92064', 02.09, 'graviera ipiros', true, '2012-12-27 16:00:06', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('74080', 03.1, 'galopoula creta farm', true, '1999-10-20 13:54:05', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('22751', 01.11, 'himos olympos', true, '1989-12-06 13:00:35', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('90856', 11.04, 'margarini flora', true, '1999-11-20 16:52:23', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('18170', 06.05, 'boutyro kerkyras', true, '2006-05-14 19:00:12', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('27255', 02.06, 'kotopoulo nitsiakos', false, '2009-09-09 20:00:01', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('36342', 05.07, 'himos frulite', false, '2001-08-22 03:00:03', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('45425', 01.08, 'arakas mparmpa stathis', false, '1989-04-02 13:00:00', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('54510', 04.09, 'kalampoki mparmpa stathis', false, '2008-11-19 14:22:00', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('63595', 06.1, 'xantres mparmpa stathis', false, '2003-10-02 13:00:00', 3);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('72681', 07.11, 'tyropitakia alpha', false, '2005-08-15 13:00:34', 3);
+
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('53791', 06.05, 'martini royal', false, '1999-10-20 13:00:45', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('75840', 01.06, 'vodka absolute', false, '2003-01-20 14:03:45', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('61378', 23.07, 'krasi kokkino hatzimihali', true, '2018-05-21 18:00:43', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('15168', 13.08, 'krasi aspro hatzimihali', true, '2004-04-04 13:13:12', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('68960', 12.09, 'retsina kourtaki', false, '2009-06-05 12:59:12', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('22753', 18.1, 'krasi aspro apelia', true, '2012-12-27 16:00:45', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('76544', 19.11, 'krasi kokkino apelia', true, '1999-10-20 13:54:54', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('30336', 20.12, 'krasi agioritiko', true, '1989-12-06 13:00:59', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('78781', 11.05, 'ouiski johnie walker', true, '1999-11-20 16:52:43', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('57561', 09.06, 'ouiski grants', true, '2006-05-04 19:00:45', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('36340', 09.07, 'liker baileys', false, '2009-09-09 20:00:11', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('15120', 10.08, 'liker disaronno', false, '2001-08-22 3:00:11', 4);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('93900', 14.09, 'tsipouro batabzim', false, '1989-04-02 13:00:11', 4);
+
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('92240', 05.06, 'trofi gatas whiskas', false, '1999-10-20 13:00:34', 5);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('84480', 06.07, 'trofi skilou dogies', false, '2003-01-23 14:03:08', 5);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('76720', 07.08, 'louraki skilou petshop', true, '2018-05-21 18:00:08', 5);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('68961', 03.09, 'perilaimio gatas petshop', true, '2004-04-04 13:13:08', 5);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('61200', 05.1, 'kalathaki metaforas skilou petdog', false, '2009-06-05 12:59:08', 5);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('53440', 06.11, 'kalathaki ypnou gatas dream on', true, '2012-12-27 16:00:08', 5);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('45680', 21.12, 'spitaki skylou praktiker', true, '1999-10-20 13:54:08', 5);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('37920', 05.13, 'trofh gia poulia birdshop', true, '1989-12-06 13:00:09', 5);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('48475', 02.06, 'kloubi gia poulia birdshop', true, '1999-11-20 16:52:56', 5);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('96951', 06.07, 'trofi gia kouneli petshop', true, '2006-05-14 19:00:33', 5);
+
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('30688', 03.07, 'sapouni dove', false, '1999-10-20 13:00:33', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('61375', 06.08, 'galaktoma somatos dove', false, '2003-01-23 14:03:32', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('92065', 10.09, 'sampouan pantene', true, '2018-05-21 18:00:12', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('22752', 13.1, 'aposmitiko rexona', true, '2004-04-04 13:13:14', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('53441', 13.11, 'afroloutro dove', false, '2009-06-05 12:59:45', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('84128', 03.12, 'odontokrema froika', true, '2012-12-27 16:00:56', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('14816', 05.13, 'sampouan elvive', true, '1999-10-20 13:54:56', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('45504', 10.14, 'odontokrema colgate', true, '1989-12-06 13:00:23', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('18171', 04.07, 'xiristikes mihanes bic', true, '1999-11-20 16:52:12', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('36343', 06.08, 'moromantila babylino', true, '2006-05-14 19:00:25', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('54511', 03.09, 'aposmitiko dove', false, '2009-09-09 20:00:00', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('72680', 07.1, 'antisiptiko froika', false, '2001-08-08 03:00:45', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('90850', 05.11, 'sampouan froika', false, '1989-04-24 13:00:12', 6);
+INSERT INTO `Products` (`Barcode`, `Price`, `P_Name`, `Brand_name`, `First_transaction`, `Category_id`) VALUES('90200', 13.12, 'krema prosopou froika', false, '2008-11-15 14:22:22', 6);
